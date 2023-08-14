@@ -1,0 +1,9 @@
+INSTRUJCCIONES CALCULADORA
+
+El primer paso para ejecutar esta calculadora consiste en ejecutar todos los valores con los que se va a comenzar por defecto todos estos se ejecutan desde el archivo r llamado valores shiny es un archivo un poco denso por lo tanto puede tardar un poco en ejecutarse sin embargo una vez ejecutado se podrá correr el archivo llamado r shiny
+
+
+Esta calculadora se ejecuta en un archivo shiny el cual es una librería de r sin embargo es tan popular que se volvió un tipo de archivo como tal,Para ejecutar este archivo se debe dar en la parte superior derecha en donde se indica el run app.
+
+
+Las categorías iniciales o inputs son bastante fáciles de entender hay una descripción en donde se le da cualquier valor que se desee, puede ser contraproducente que valores como el número de baños y habitaciones o el número máximo de huéspedes no estén en realidad con un límite superior ni inferior, pero esto está hecho para que el usuario pueda ver los valores que se le otorgan a cada cosa y pueda jugar con esta calculadora sin limite de restricciones la fecha de registro se considera la fecha en la que el host se registró con este inmueble finalmente el primer valor que será expulsado será el precio que se recomienda ponerle al inmueble seguido de un grupo de recomendaciones sobre cómo podríamos hacer que el inmueble aumente su valor y un histograma que nos plantea el poder observar el peso de cada variable así podremos comparar cuáles son los puntos fuertes de nuestro inmueble y cuáles por otro lado son los puntos débiles a mejorar
